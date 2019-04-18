@@ -7,18 +7,18 @@
   "accessible.warp": "Passagem",
 
   // buildable
-  // TODO
-  "buildable.name": "Buildable",
-  "buildable.buildable": "Can Build here",
-  "buildable.occupied": "Occupied",
-  "buildable.not-buildable": "Can't Build Here",
+
+  "buildable.name": "Construtível",
+  "buildable.buildable": "Pode construir aqui",
+  "buildable.occupied": "Ocupado",
+  "buildable.not-buildable": "Não pode construir aqui",
 
   // coverage: bee houses
-  "bee-houses.name": "Cobertura: Casas de Abelhas",
+  "bee-houses.name": "Cobertura: Apiários",
   "bee-houses.range": "Alcance das Flores",
 
   // coverage: Junimo huts
-  "junimo-huts.name": "Cobertura: Cabana dos Junimos",
+  "junimo-huts.name": "Cobertura: Cabana dos junimos",
   "junimo-huts.can-harvest": "Pode Colher",
   "junimo-huts.cannot-harvest": "Não pode Colher",
 
@@ -33,20 +33,20 @@
   "sprinklers.dry-crops": "Plantas Secas",
 
   // crops: harvest
-  "crop-harvest.name": "Plantas: Pronto para colher",
+  "crop-harvest.name": "Plantas: Prontas para colher",
   "crop-harvest.ready": "Pronto",
   "crop-harvest.not-ready": "Não está pronto",
   "crop-harvest.not-enough-time": "Sem tempo suficiente",
 
   // crops: watered
-  "crop-water.name": "Plantas: Irrigado",
+  "crop-water.name": "Plantas: Irrigadas",
   "crop-water.watered": "Planta Irrigada",
   "crop-water.dry": "Planta Seca",
 
   // crops: fertilized
   "crop-fertilizer.name": "Plantas: Fertilizadas",
   "crop-fertilizer.fertilizer": "Fertilizante",
-  "crop-fertilizer.retaining-soil": "Solo Retentor",
+  "crop-fertilizer.retaining-soil": "Solo retentor",
   "crop-fertilizer.speed-gro": "Solo Foliar",
 
   // machine processing
@@ -57,8 +57,8 @@
 
   // tillable
   // TODO
-  "tillable.name": "Tillable",
-  "tillable.tillable": "Tillable",
-  "tillable.occupied": "Occupied",
-  "tillable.not-tillable": "Not Tillable"
+  "tillable.name": "Arável",
+  "tillable.tillable": "Arável",
+  "tillable.occupied": "Ocupado",
+  "tillable.not-tillable": "Não Arável"
 }
