@@ -1,14 +1,14 @@
 {
   // default chest names
-  "default-name.auto-grabber": "Auto-Agarrador #{{number}}",
+  "default-name.auto-grabber": "Auto-agarrador #{{number}}",
   "default-name.chest": "Baú #{{number}}",
   "default-name.fridge": "Geladeira",
   "default-name.junimo-hut": "Cabana dos junimos #{{number}}",
   "default-name.shipping-bin": "Caixa de Remessas",
 
   // default category names
-  "default-category.owned-cabin": "Cabin ({{owner}})", // TODO
-  "default-category.unowned-cabin": "Cabin (empty)", // TODO
+  "default-category.owned-cabin": "Cabana ({{owner}})", // TODO
+  "default-category.unowned-cabin": "Cabana (vazia)", // TODO
   "default-category.duplicate": "{{locationName}} #{{number}}",
 
   // edit-chest labels
@@ -18,10 +18,10 @@
   "label.category": "Categoria",
   "label.order": "Ordem",
   "label.hide-chest": "Esconder esse baú",
-  "label.hide-chest-hidden": "Esconder esse baú (Você terá que achar o baú para desfazer isso!)",
+  "label.hide-chest-hidden": "Esconder esse baú (você terá que achar o baú para desfazer isso!)",
   "label.automate-prefer-output": "(Automate) Primeiro coloque itens nesse baú",
-  "label.automate-no-input": "(Automate) Don't put items in this chest", // TODO
-  "label.automate-no-output": "(Automate) Don't get items from this chest", // TODO
+  "label.automate-no-input": "(Automate) Não coloque itens nesse baú", // TODO
+  "label.automate-no-output": "(Automate) Não retire itens desse baú", // TODO
   "label.automate-ignore": "(Automate) Não use este baú para automação",
 
   // button labels
